@@ -2,3 +2,6 @@ numpy
 pillow
 pytest
 tensorflow
+termcolor
+functools32
+matplotlib
